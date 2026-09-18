@@ -16,6 +16,19 @@ The Event Management System (EMS) dashboard provides a centralized view of event
 
 The dashboard is designed with interactive filters, KPI cards, charts, and functionality to make event data easier to analyze and understand.
 
+## 📊 Project Overview
+...
+
+## 🔗 Live Dashboard
+
+👉 Click here to view the interactive Power BI Dashboard
+
+## 🛠️ Technologies & Tools
+...
+
+
+
+
 ## 🛠️ Technologies & Tools
 
 * **Microsoft Power BI**
@@ -128,7 +141,7 @@ The report includes interactive Power BI visuals such as:
 
 ## 🖼️ Dashboard Preview
 
-![EMS Power BI Dashboard](Screenshots/EMS-Dashboard.png)
+![EMS Power BI Dashboard](Screenshot/EMS-Dashboard.png)
 
 ## 💡 Business Insights
 
