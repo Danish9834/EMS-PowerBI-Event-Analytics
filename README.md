@@ -21,12 +21,9 @@ The dashboard is designed with interactive filters, KPI cards, charts, and funct
 
 ## 🔗 Live Dashboard
 
-👉 Click here to view the interactive Power BI Dashboard
-
+👉 [Click here to view the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjUyMTk5NWUtMzI4ZC00NmEwLTk3YjAtNjM2MjdkMWExNDJiIiwidCI6IjNkNjFhOTViLTczMjktNDdhYi1iNGZiLTMwYWEwYWMwZGMzNSJ9)
 ## 🛠️ Technologies & Tools
 ...
-
-
 
 
 ## 🛠️ Technologies & Tools
@@ -141,7 +138,7 @@ The report includes interactive Power BI visuals such as:
 
 ## 🖼️ Dashboard Preview
 
-![EMS Power BI Dashboard](Screenshot/EMS-Dashboard.png)
+![EMS Power BI Dashboard](EMS-Dashboard.png)
 
 ## 💡 Business Insights
 
